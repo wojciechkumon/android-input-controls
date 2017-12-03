@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">android-input-controls</string>
+    <string-array name="text_array">
+        <item>Example toast!</item>
+        <item>Sending…</item>
+        <item>teXt</item>
+    </string-array>
 </resources>
